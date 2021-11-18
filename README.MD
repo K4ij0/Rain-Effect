@@ -1,6 +1,6 @@
 ### A simple Rain Type Effect
 [![Website](https://img.shields.io/website?label=FahadPortfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://fahadportfolio.altervista.org/)
->NOTE: IF YOU DO COPY AND PASTE
+>NOTE: IF YOU DO COPY AND PASTE\
 >Please be a **decent person** and give me proper **credit** by linking back to my git-hub/website.
 
 
