@@ -1,0 +1,11 @@
+body{
+    
+    margin: 0;
+    overflow: hidden;
+    background: linear-gradient(to top, #283E51, #0A2342);
+}
+p{
+    line-height: 1.25;
+    text-align: center;
+    color:black;
+}
